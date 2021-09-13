@@ -40,7 +40,7 @@ body {
 }
 .single-product {
   padding: 10px;
-  transition: 0.2s;
+  transition: 0.6s;
   background-color: #ecf0f1;
 }
 .single-product:hover {
